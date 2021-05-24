@@ -1,0 +1,15 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 2017
+    },
+
+    "env": {
+        "es6": true
+    },
+
+    "rules": {
+        // 0|"off", 1|"warn", 2|"error".
+        "semi": ["warn", "always"],
+        "quotes": ["off", "single"]
+    }
+}

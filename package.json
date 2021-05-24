@@ -1,0 +1,15 @@
+{
+  "name": "threejs-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/three": "^0.128.0",
+    "three": "^0.128.0",
+    "typescript": "^4.2.3",
+    "vite": "^2.3.3"
+  }
+}
